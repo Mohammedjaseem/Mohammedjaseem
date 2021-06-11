@@ -31,7 +31,9 @@
 <a href="https://instagram.com/jassy.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jassy.in" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mohammed jaseem tp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohammed jaseem tp" height="30" width="40" /></a>
 </p>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohammedjaseemtp" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mohammedjaseemtp?trk=profile-badge">Mohammed Jaseem Tp</a></div>
+              
               
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,4 +44,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedjaseem&show_icons=true&locale=en" alt="mohammedjaseem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedjaseem&" alt="mohammedjaseem" /></p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
