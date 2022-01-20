@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaseemjassy" target="blank"><img src="https://img.shields.io/twitter/follow/jaseemjassy?logo=twitter&style=for-the-badge" alt="jaseemjassy" /></a> </p>
 
-- 🔭 I’m currently working on **Nova Sim Soft**
+- 🔭 I’m currently working on **MDC Portal**
 
 - 🌱 I’m currently learning **Cybersecurity**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Cybersecurity mentors**
 
-- 👨‍💻 All of my projects are available at [www.jaseem.tech](www.jaseem.tech)
+- 👨‍💻 All of my projects are available at [www.mohammedjaseem.me](www.mohammedjaseem.me)
 
 - 💬 Ask me about **Security and Web development**
 
