@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Security and Web development**
 
-- 📫 How to reach me **mohammedjaseemtp@gmail.com**
+- 📫 How to reach me **mail@mohammedjaseem.me**
 
 - ⚡ Fun fact **I think I am Funny**
 
