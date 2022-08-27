@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Jaseem</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Self-taught Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedjaseem&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedjaseem" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jaseemjassy" target="blank"><img src="https://img.shields.io/twitter/follow/jaseemjassy?logo=twitter&style=for-the-badge" alt="jaseemjassy" /></a> </p>
 
-- 🔭 I’m currently working on **Whatshope**
+- 🔭 I’m currently working on **Ekka Ecommerce( Online Fashion Store )**
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Python Django**
 
-- 👯 I’m looking to collaborate on **Pentesting Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projetcs**
 
 - 🤝 I’m looking for help with **Cybersecurity mentors**
 
