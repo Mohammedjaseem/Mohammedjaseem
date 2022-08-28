@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Ekka E-commerce( Online Fashion Store )**
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Full Stack Projetcs**
 
-- 🤝 I’m looking for help with **Cybersecurity mentors**
+- 🤝 I’m looking for help with **Data Science mentors**
 
 - 👨‍💻 All of my projects are available at [www.mohammedjaseem.me](www.mohammedjaseem.me)
 
