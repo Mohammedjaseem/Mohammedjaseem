@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mail@mohammedjaseem.me**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think that i find easier ways to do my tasks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
