@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammed Jaseem</h1>
-<h3 align="center">A Self-taught Passionate Software Engineer from India</h3>
+<h3 align="center">A self-taught Passionate software engineer from India who loves solving problems through coding </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedjaseem&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedjaseem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedjaseem" alt="mohammedjaseem" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jaseemjassy" target="blank"><img src="https://img.shields.io/twitter/follow/jaseemjassy?logo=twitter&style=for-the-badge" alt="jaseemjassy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jassy_in" target="blank"><img src="https://img.shields.io/twitter/follow/jaseemjassy?logo=twitter&style=for-the-badge" alt="jassy_in" /></a> </p>
 
 - 🔭 I’m currently working on **Ekka E-commerce( Online Fashion Store )**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jaseemjassy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaseemjassy" height="30" width="40" /></a>
+<a href="https://twitter.com/jassy_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jassy_in" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammedjaseemtp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedjaseemtp" height="30" width="40" /></a>
 <a href="https://instagram.com/jassy.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jassy.in" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mohammed jaseem tp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohammed jaseem tp" height="30" width="40" /></a>
