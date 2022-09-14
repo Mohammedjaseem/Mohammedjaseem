@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with **Data Science mentors**
 
-- 👨‍💻 All of my projects are available at [www.mohammedjaseem.me](www.mohammedjaseem.me)
+- 👨‍💻 All of my projects are available at [www.jassy.in](www.jassy.in)
 
 - 💬 Ask me about **Security and Web development**
 
-- 📫 How to reach me **mail@mohammedjaseem.me**
+- 📫 How to reach me **mail@jassy.in**
 
 - ⚡ Fun fact **I think that i find easier ways to do my tasks**
 
