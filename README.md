@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **Ekka E-commerce( Online Fashion Store )**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **Full Stack Projetcs**
 
-- 🤝 I’m looking for help with **Data Science mentors**
+- 🤝 I’m looking for help with **Full Stack mentors**
 
 - 👨‍💻 All of my projects are available at [www.jassy.in](www.jassy.in)
 
-- 💬 Ask me about **Security and Web development**
+- 💬 Ask me about **Web Application development & freelancing**
 
 - 📫 How to reach me **mail@jassy.in**
 
