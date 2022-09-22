@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Ekka E-commerce( Online Fashion Store )**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Full Stack Development using Django, PostgreSQL & React JS**
 
 - 👯 I’m looking to collaborate on **Full Stack Projetcs**
 
