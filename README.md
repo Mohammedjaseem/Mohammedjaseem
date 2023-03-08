@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jassy_in" target="blank"><img src="https://img.shields.io/twitter/follow/jassy_in?logo=twitter&style=for-the-badge" alt="jassy_in" /></a> </p>
 
-- 🔭 I’m currently working on **Ekka E-commerce( Online Fashion Store )**
+- 🔭 I’m currently working on **Connectx ( The Managment Software )**
 
-- 🌱 I’m currently learning **Full Stack Development using Django, PostgreSQL & React JS**
+- 🌱 I’m currently learning **Full Stack Development using Django REST Api, PostgreSQL & Flutter**
 
 - 👯 I’m looking to collaborate on **Full Stack Projetcs**
 
