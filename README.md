@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jassy_in" target="blank"><img src="https://img.shields.io/twitter/follow/jassy_in?logo=twitter&style=for-the-badge" alt="jassy_in" /></a> </p>
 
-- 🔭 I’m currently working on **Conext ( The Managment Software )**
+- 🔭 I’m currently working on **CONNECT v2 ( The Management Software )**
 
-- 🌱 I’m currently learning **Full Stack Development using Django REST Api, PostgreSQL & Flutter**
+- 🌱 I’m currently learning **Full Stack Development using Django REST API, PostgreSQL & Flutter**
 
-- 👯 I’m looking to collaborate on **Full Stack Projetcs**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 🤝 I’m looking for help with **Full Stack mentors**
 
